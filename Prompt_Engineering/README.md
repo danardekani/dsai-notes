@@ -20,11 +20,12 @@ This repository contains comprehensive notes, code examples, and resources from 
 ### In Progress
 - [Module 1: Foundations of Prompt Engineering](./mod-1/foundations-of-prompt-engineering/README.md)
 
-## 🛠️ Tools & Resources
+## Tools & Resources
 
 - **LLMs** Claude, Gemini, Mistral 
 
-Links to resources
+## Links to resources
+- https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md
 
 ---
 
