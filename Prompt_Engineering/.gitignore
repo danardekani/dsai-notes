@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Data files
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+*.key
+secrets.json
