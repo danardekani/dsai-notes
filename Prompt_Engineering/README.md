@@ -1,4 +1,4 @@
-# Prompot Engineering - Study Notes
+# Prompt Engineering - Study Notes
 
 This repository contains comprehensive notes, code examples, and resources from my class on Prompt Engineering in my M.S. of DSAI
 
