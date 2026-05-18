@@ -18,7 +18,7 @@ This repository contains comprehensive notes, code examples, and resources from 
 - Module 7: Business Prompt Engineering Project
 
 ### In Progress
-- [Module 1: Foundations of Prompt Engineering](./Prompt_Engineering/mod-1/foundations-of-prompt-engineering/notes.md)
+- [Module 1: Foundations of Prompt Engineering](./mod-1/foundations-of-prompt-engineering/notes.md)
 
 ## Tools & Resources
 
