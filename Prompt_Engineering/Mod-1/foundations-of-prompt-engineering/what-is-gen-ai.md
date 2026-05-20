@@ -44,3 +44,14 @@ In general, GenAI learns from understanding patterns from massive, massive amoun
 - ***Want Consistency?** then you should use templates, specific formatting requirements, and use detailed contraints.
 
 ### Open-Source Platforms
+- Full control and customization
+- Primary platform: Hugging Face
+
+Primary Use Cases
+- Fine-tuning: you can have control over how your model is trained and with what data. Enables businesses to have niche models built around their business.
+- Data Sovereignty: Industries with sensitive data like healthcare and finance can keep information in house and never have to send data to to external APIs.
+- Cost Optimization: High-volume users save money by self-hosting instead of paying per token API fees.
+    #### **Trade offs** 
+    - Higher complexity: Need ML and engineering expertise.
+    - server and GPU expenses can exceed API pricing.
+
