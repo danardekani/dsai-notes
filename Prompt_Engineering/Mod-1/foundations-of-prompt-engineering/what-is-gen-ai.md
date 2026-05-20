@@ -43,3 +43,4 @@ In general, GenAI learns from understanding patterns from massive, massive amoun
 - Creative Flexibility: Natural variation enables fresh persepectives and diverse appraoches.
 - ***Want Consistency?** then you should use templates, specific formatting requirements, and use detailed contraints.
 
+### Open-Source Platforms
