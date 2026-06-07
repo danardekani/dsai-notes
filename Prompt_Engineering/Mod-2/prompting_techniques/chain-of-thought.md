@@ -1,0 +1,2 @@
+##  Chain of Thought Prompting
+Prompting techinque to improve the reasoning capabilities of LLMs by generating intermediate reasoning steps. This technique can be combined with few-shot prompting for when you are working on a complex task that requires reasoning before responding.
