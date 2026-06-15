@@ -10,7 +10,7 @@ Examples:
     - "limit each reasoning path to 4 steps."
     - "Avoid unsupported assumptions."
 
-Combining Self-Consistency with CoT prompting 
+### Combining Self-Consistency with CoT prompting 
 - Use CoT inside each path
 - Generate multiple paths
 - Compare their logic
