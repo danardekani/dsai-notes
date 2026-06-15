@@ -20,3 +20,9 @@ Quality Improvement Loop:
 1 - "Does your response contain biased language?"
 2 - "Did you make cultural or demographic assumptions?"
 3 - "Rewrite to ensure inclusivity and neutrality."
+
+### Checking Data Integrity using Reflective Prompts
+- "did you inest any information?"
+- "Did you assume data not provided?
+- "Rewrite the asnwer using only the supplied text."
+Furthermore, ask for sources if its referencing data from an external source, and do not assume that because a source is provided that it's true. Review the source and the contexts provided.
